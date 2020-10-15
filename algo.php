@@ -3,7 +3,7 @@
 
 //$str = readline('Entrez un nombre : \n');
 //$num = intval($str);
-$num = round(1,15);
+$num = rand(1,15);
 
 function make_A_Tree(int $n) : string 
 {
